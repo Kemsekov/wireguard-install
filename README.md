@@ -1,3 +1,5 @@
+All this fork does is replaces revokation of clinet from using client id to using client name
+
 # WireGuard installer
 
 ![Lint](https://github.com/angristan/wireguard-install/workflows/Lint/badge.svg)
